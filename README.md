@@ -4,5 +4,4 @@ I'm a Senior Software Developer working remotely in Warsaw, Poland.
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/m-majchrzak"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-majchrzak/"/></a>
-  <a href="mailto:majchrzak@outlook.com"><img src="https://img.shields.io/badge/-majchrzak@outlook.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:majchrzak@outlook.com"/></a>
 </p>
